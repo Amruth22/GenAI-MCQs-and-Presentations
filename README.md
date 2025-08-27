@@ -152,6 +152,4 @@ This repository serves as a comprehensive educational resource. Each MCQ set is 
 - **Structure**: Organized by topic folders
 
 ---
-
-**Last Updated**: December 2024  
 **Total Content**: 12 Topic Areas | 360 MCQs | Comprehensive GenAI Coverage
